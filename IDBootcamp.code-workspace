@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../Data_Science_Proyect"
 		}
 	],
 	"settings": {},
